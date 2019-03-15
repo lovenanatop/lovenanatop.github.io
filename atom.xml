@@ -5,9 +5,9 @@
   <subtitle>桃花养殖场</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://yzc.lovenana.top/"/>
+  <link href="http://yzc.lovenana.top/"/>
   <updated>2018-12-22T07:55:50.724Z</updated>
-  <id>https://yzc.lovenana.top/</id>
+  <id>http://yzc.lovenana.top/</id>
   
   <author>
     <name>陈生</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>野公鸡</title>
-    <link href="https://yzc.lovenana.top/2018/12/21/36965648.html"/>
-    <id>https://yzc.lovenana.top/2018/12/21/36965648.html</id>
+    <link href="http://yzc.lovenana.top/2018/12/21/36965648.html"/>
+    <id>http://yzc.lovenana.top/2018/12/21/36965648.html</id>
     <published>2018-12-21T08:59:11.000Z</published>
     <updated>2018-12-22T07:55:50.724Z</updated>
     
@@ -33,16 +33,16 @@
     </summary>
     
     
-      <category term="禽类" scheme="https://yzc.lovenana.top/tags/%E7%A6%BD%E7%B1%BB/"/>
+      <category term="野味" scheme="http://yzc.lovenana.top/tags/%E9%87%8E%E5%91%B3/"/>
     
-      <category term="野味" scheme="https://yzc.lovenana.top/tags/%E9%87%8E%E5%91%B3/"/>
+      <category term="禽类" scheme="http://yzc.lovenana.top/tags/%E7%A6%BD%E7%B1%BB/"/>
     
   </entry>
   
   <entry>
     <title>贵妃鸡</title>
-    <link href="https://yzc.lovenana.top/2018/12/20/2aea2a34.html"/>
-    <id>https://yzc.lovenana.top/2018/12/20/2aea2a34.html</id>
+    <link href="http://yzc.lovenana.top/2018/12/20/2aea2a34.html"/>
+    <id>http://yzc.lovenana.top/2018/12/20/2aea2a34.html</id>
     <published>2018-12-20T10:01:43.000Z</published>
     <updated>2018-12-23T14:54:24.353Z</updated>
     
@@ -56,16 +56,16 @@
     </summary>
     
     
-      <category term="禽类" scheme="https://yzc.lovenana.top/tags/%E7%A6%BD%E7%B1%BB/"/>
+      <category term="禽类" scheme="http://yzc.lovenana.top/tags/%E7%A6%BD%E7%B1%BB/"/>
     
-      <category term="高蛋白" scheme="https://yzc.lovenana.top/tags/%E9%AB%98%E8%9B%8B%E7%99%BD/"/>
+      <category term="高蛋白" scheme="http://yzc.lovenana.top/tags/%E9%AB%98%E8%9B%8B%E7%99%BD/"/>
     
   </entry>
   
   <entry>
     <title>珍珠鸡</title>
-    <link href="https://yzc.lovenana.top/2018/12/11/83dcefb7.html"/>
-    <id>https://yzc.lovenana.top/2018/12/11/83dcefb7.html</id>
+    <link href="http://yzc.lovenana.top/2018/12/11/83dcefb7.html"/>
+    <id>http://yzc.lovenana.top/2018/12/11/83dcefb7.html</id>
     <published>2018-12-11T14:26:44.000Z</published>
     <updated>2018-12-22T07:56:06.816Z</updated>
     
@@ -79,9 +79,9 @@
     </summary>
     
     
-      <category term="禽类" scheme="https://yzc.lovenana.top/tags/%E7%A6%BD%E7%B1%BB/"/>
+      <category term="禽类" scheme="http://yzc.lovenana.top/tags/%E7%A6%BD%E7%B1%BB/"/>
     
-      <category term="低脂肪" scheme="https://yzc.lovenana.top/tags/%E4%BD%8E%E8%84%82%E8%82%AA/"/>
+      <category term="低脂肪" scheme="http://yzc.lovenana.top/tags/%E4%BD%8E%E8%84%82%E8%82%AA/"/>
     
   </entry>
   
